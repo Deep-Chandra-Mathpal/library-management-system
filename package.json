@@ -1,0 +1,28 @@
+{
+  "name": "library-management-system",
+  "version": "1.0.0",
+  "description": "library management system using blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deep-Chandra-Mathpal/library-management-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deep-Chandra-Mathpal/library-management-system/issues"
+  },
+  "homepage": "https://github.com/Deep-Chandra-Mathpal/library-management-system#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.13.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.2",
+    "dotenv": "^16.0.3"
+  }
+}
